@@ -1,0 +1,3 @@
+D:/Faculty/an 1/OOP/Vehicle/cmake-build-debug/CMakeFiles/Vehicle.dir
+D:/Faculty/an 1/OOP/Vehicle/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Faculty/an 1/OOP/Vehicle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

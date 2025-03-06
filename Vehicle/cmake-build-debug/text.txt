@@ -1,0 +1,4 @@
+Ford,2014,50
+Opel,2011,40
+Tesla,2023,90
+Mountain Bike,2023,20
