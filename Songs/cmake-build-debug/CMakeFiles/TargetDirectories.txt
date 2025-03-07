@@ -1,0 +1,5 @@
+D:/Qt/L11L12_songs/cmake-build-debug/CMakeFiles/L11L12_songs.dir
+D:/Qt/L11L12_songs/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Qt/L11L12_songs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Qt/L11L12_songs/cmake-build-debug/CMakeFiles/L11L12_songs_autogen_timestamp_deps.dir
+D:/Qt/L11L12_songs/cmake-build-debug/CMakeFiles/L11L12_songs_autogen.dir
