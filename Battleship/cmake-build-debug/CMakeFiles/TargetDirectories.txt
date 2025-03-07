@@ -1,0 +1,5 @@
+D:/Qt/Battleship/cmake-build-debug/CMakeFiles/Battleship.dir
+D:/Qt/Battleship/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Qt/Battleship/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Qt/Battleship/cmake-build-debug/CMakeFiles/Battleship_autogen_timestamp_deps.dir
+D:/Qt/Battleship/cmake-build-debug/CMakeFiles/Battleship_autogen.dir
